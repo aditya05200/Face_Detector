@@ -1,2 +1,1 @@
-# Face_Detector
-Great project using Caffe Framework
+# Caffe_Model for face_Detection
